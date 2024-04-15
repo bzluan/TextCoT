@@ -28,3 +28,16 @@ bash scripts/TextCoT_evaluation.sh
 # Acknowledgement
 
 Our work is inspired by [CCOT](https://github.com/chancharikmitra/CCoT). We are grateful for their great work.
+
+# Citation
+
+Please cite the related works in your publications if it helps your research:
+
+```
+@article{textcot,
+  title={TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding},
+  author={Luan, Bozhi and Feng, Hao and Chen, Hong and Wang, Yonghui and Zhou, Wengang and Li, Houqiang},
+  journal={arXiv preprint},
+  year={2024}
+}
+```
