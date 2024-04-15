@@ -1,4 +1,10 @@
 # TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding
+<p>
+    <a href='https://drive.google.com/file/d/1_2HKI3HWCk6YGuZg58wa4R7vzx6dVV6I/view?usp=drive_link' target="_blank"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+</p>
+
+This is a PyTorch/GPU re-implementation of the paper [TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding](https://drive.google.com/file/d/1_2HKI3HWCk6YGuZg58wa4R7vzx6dVV6I/view?usp=drive_link)
+
 ![方法框图-final_v6](https://github.com/lbz0075/TextCoT/assets/74731678/5c1f64f8-39d2-4c15-ad29-b8bf2ba9cdd0)
 
 
