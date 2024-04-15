@@ -7,7 +7,7 @@ The advent of Large Multimodal Models (LMMs) has sparked a surge in research aim
 # Datasets
 From https://github.com/Yuliang-Liu/MultimodalOCR
 
-Test Json: Full Test (./FullTest.json)
+Test Json: [Full Test](./FullTest.json)
 
 All Test Images: [All Images](https://drive.google.com/file/d/1U5AtLoJ7FrJe9yfcbssfeLmlKb7dTosc/view?usp=drive_link)
 
