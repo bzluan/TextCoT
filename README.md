@@ -1,9 +1,9 @@
 # TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding
 <p>
-    <a href='https://drive.google.com/file/d/1_2HKI3HWCk6YGuZg58wa4R7vzx6dVV6I/view?usp=drive_link' target="_blank"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+    <a href='https://drive.google.com/file/d/1AY13sdAqsx54ecfeijFk5nETeecxfb2H/view?usp=sharing' target="_blank"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 </p>
 
-This is the implementation of the paper [TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding](https://drive.google.com/file/d/1_2HKI3HWCk6YGuZg58wa4R7vzx6dVV6I/view?usp=drive_link)
+This is the implementation of the paper [TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding](https://drive.google.com/file/d/1AY13sdAqsx54ecfeijFk5nETeecxfb2H/view?usp=sharing)
 
 ![方法框图-final_v6](https://github.com/lbz0075/TextCoT/assets/74731678/5c1f64f8-39d2-4c15-ad29-b8bf2ba9cdd0)
 
