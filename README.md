@@ -24,3 +24,7 @@ Example evaluation scripts:
 ```
 bash scripts/TextCoT_evaluation.sh
 ```
+
+# Acknowledgement
+
+Our work is inspired by [CCOT](https://github.com/chancharikmitra/CCoT). We are grateful for their great work.
