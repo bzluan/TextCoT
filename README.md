@@ -1,6 +1,6 @@
 # TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding
 <p>
-    <a href='https://drive.google.com/file/d/1AY13sdAqsx54ecfeijFk5nETeecxfb2H/view?usp=sharing' target="_blank"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+    <a href='https://arxiv.org/abs/2404.09797' target="_blank"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 </p>
 
 This is the implementation of the paper [TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding](https://drive.google.com/file/d/1AY13sdAqsx54ecfeijFk5nETeecxfb2H/view?usp=sharing)
