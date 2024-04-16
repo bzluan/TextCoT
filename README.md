@@ -37,7 +37,7 @@ Please cite the related works in your publications if it helps your research:
 @article{textcot,
   title={TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding},
   author={Luan, Bozhi and Feng, Hao and Chen, Hong and Wang, Yonghui and Zhou, Wengang and Li, Houqiang},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2404.09797},
   year={2024}
 }
 ```
