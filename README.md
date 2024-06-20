@@ -22,7 +22,7 @@ All Test Images: [All Images](https://drive.google.com/file/d/1U5AtLoJ7FrJe9yfcb
 Example evaluation scripts:
 
 ```
-bash scripts/TextCoT_evaluation.sh
+bash TextCoT_evaluation.sh
 ```
 
 # Acknowledgement
