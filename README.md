@@ -1,4 +1,4 @@
-# TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding
+# TextCoT
 <p>
     <a href='https://arxiv.org/abs/2404.09797' target="_blank"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 </p>
