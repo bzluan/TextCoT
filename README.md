@@ -17,6 +17,12 @@ Test Json: [Full Test](./FullTest.json)
 
 All Test Images: [All Images](https://drive.google.com/file/d/1U5AtLoJ7FrJe9yfcbssfeLmlKb7dTosc/view?usp=drive_link)
 
+# Large Multimodal Models
+LLaVA-1.5-7B & LLaVA-1.5-13B: https://github.com/haotian-liu/LLaVA
+SPHINX: https://github.com/sphinx-doc/sphinx
+ShareGPT4V: https://github.com/ShareGPT4Omni/ShareGPT4V
+Qwen-VL-Chat: https://github.com/QwenLM/Qwen-VL
+
 # Evaluation
 
 Example evaluation scripts:
