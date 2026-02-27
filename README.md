@@ -1,9 +1,10 @@
 # TextCoT
 <p>
+    <a href='https://dl.acm.org/journal/tomm' target="_blank"><img src='https://img.shields.io/badge/Journal-ACM%20TOMM-blue'></a>
     <a href='https://arxiv.org/abs/2404.09797' target="_blank"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 </p>
 
-This is the implementation of the paper [TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding](https://drive.google.com/file/d/1AY13sdAqsx54ecfeijFk5nETeecxfb2H/view?usp=sharing)
+This is the official implementation of the paper: **TextCoT: Zoom-In for Enhanced Multimodal Text-Rich Image Understanding**, published in *ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)*.
 
 ![方法框图-final_v6](https://github.com/lbz0075/TextCoT/assets/74731678/5c1f64f8-39d2-4c15-ad29-b8bf2ba9cdd0)
 
@@ -46,10 +47,12 @@ Our work is inspired by [CCOT](https://github.com/chancharikmitra/CCoT). We are 
 Please cite the related works in your publications if it helps your research:
 
 ```
-@article{textcot,
-  title={TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding},
+@article{luan2024textcot,
+  title={TextCoT: Zoom-In for Enhanced Multimodal Text-Rich Image Understanding},
   author={Luan, Bozhi and Feng, Hao and Chen, Hong and Wang, Yonghui and Zhou, Wengang and Li, Houqiang},
-  journal={arXiv preprint arXiv:2404.09797},
+  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+  publisher={ACM New York, NY},
   year={2024}
 }
+
 ```
