@@ -1,6 +1,6 @@
 # TextCoT
 <p>
-    <a href='https://dl.acm.org/journal/tomm' target="_blank"><img src='https://img.shields.io/badge/Journal-ACM%20TOMM-blue'></a>
+    <a href='https://dl.acm.org/doi/10.1145/3785474' target="_blank"><img src='https://img.shields.io/badge/Journal-ACM%20TOMM-blue'></a>
     <a href='https://arxiv.org/abs/2404.09797' target="_blank"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 </p>
 
@@ -54,5 +54,4 @@ Please cite the related works in your publications if it helps your research:
   publisher={ACM New York, NY},
   year={2024}
 }
-
 ```
